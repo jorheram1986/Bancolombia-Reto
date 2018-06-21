@@ -32,5 +32,6 @@ public class LoginTestDefinition {
 	public void verificarAccesoApp(List<String> data) throws Throwable {
 		autenticacion.setMensaje(data.get(0));
 		loginTestSteps.verificarLoginExitoso(autenticacion);
+		//
 	}
 }

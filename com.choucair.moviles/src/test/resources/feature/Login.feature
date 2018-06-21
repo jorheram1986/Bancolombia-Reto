@@ -17,6 +17,5 @@ Feature: Realizar operaciones realacionadas con el Login
       |ID|Usuario|Contrasena|Mensaje|
       ##@externaldata@./src/test/resources/DataDriven/Login.xlsx@LoginExitoso
       |1|company|company|EriBank|
-      |2|compan|compan|Invalid username or password!|
 
      
